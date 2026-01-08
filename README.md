@@ -1,7 +1,7 @@
 <div align="Center">
 
 
-
+<img src="https://media0.giphy.com/media/v1.Y21kPTc5MGI3NjExMDE0bWluamhua2E2ZGFwYmgxZTN4aDk3Zm16ejkwaWI5enR0bGhwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hTaUGKJuKPWCIoVjdt/giphy.gif"/> 
 
 <div align="Center">
 <h1>Skills</h1>
